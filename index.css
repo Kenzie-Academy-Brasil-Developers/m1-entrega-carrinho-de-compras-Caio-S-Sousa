@@ -1,0 +1,48 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ul{
+    background-color: black;
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+li{
+    background-color: aliceblue;
+    width: 350px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button{
+    background-color: aquamarine;
+    border-radius: 3px;
+}
+
+h3{
+    background-color: white;
+    width: 350px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+h1{
+    background-color: black;
+    color: white;
+}
+
